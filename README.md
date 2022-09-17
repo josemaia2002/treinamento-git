@@ -10,4 +10,5 @@ Texto aleatório para ocupar espaço nesse arquivo Markdown
 
 Mais texto
 
+# Alteração da 'main'
 # Alteração da 'develop'
